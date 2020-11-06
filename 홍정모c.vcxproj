@@ -125,6 +125,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Logical_operator.c" />
+    <ClCompile Include="make_menu.c" />
     <ClCompile Include="min_max.cpp" />
     <ClCompile Include="word_count.c" />
   </ItemGroup>
